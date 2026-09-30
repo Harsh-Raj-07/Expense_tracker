@@ -1,0 +1,38 @@
+[
+  {
+    "title": "car",
+    "amount": 1000000.0,
+    "category": "travel",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "house",
+    "amount": 5000000000.0,
+    "category": "shelter",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "breakfast",
+    "amount": 5000.0,
+    "category": "food",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "woman",
+    "amount": 50.0,
+    "category": "desire",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "travling",
+    "amount": 5e+17,
+    "category": "travel",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "fitness",
+    "amount": 20000000.0,
+    "category": "fitness",
+    "date": "2026-09-30"
+  }
+]
